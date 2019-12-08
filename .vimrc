@@ -3,6 +3,8 @@ set tabstop=4
 set shiftwidth=4
 syntax on
 filetype indent on 
+set expandtab
+
 
 inoremap ( ()<Esc>i
 inoremap " ""<Esc>i
