@@ -5,7 +5,7 @@ apt-get install python3 -y
 apt-get install ruby -y
 apt-get install gem -y
 apt-get install nmap -y
-apt-get install gdb
+apt-get install gdb -y
 python -m pip install pwntools --user
 gem install one_gadget
 
